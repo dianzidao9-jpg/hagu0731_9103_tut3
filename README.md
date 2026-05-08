@@ -3,7 +3,7 @@ My first repository for IDEA9103
 
 This is my first local change to the repo!
 
-# Quiz week9: Imaging Technique & Coding Technique
+# Quiz week 8: Imaging Technique & Coding Technique
 
 ## Part 1: Imaging Technique Inspiration
 
